@@ -1,6 +1,10 @@
 - belajar python
 - belajar webdev
-  ^ belajar golang
-  ^ belajar angular
+  ^ database
+  ^ back end
+  ^ front end
 - belajar data sains
+  ^ konsep
+  ^ google cloud
+  ^ eksekusi
 - papercraft diecast
