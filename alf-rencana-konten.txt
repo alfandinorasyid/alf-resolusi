@@ -1,4 +1,7 @@
 - belajar python
 - belajar webdev
 - belajar data sains
+  ^ konsep
+  ^ google cloud
+  ^ eksekusi
 - papercraft diecast
