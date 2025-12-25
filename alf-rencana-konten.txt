@@ -1,4 +1,6 @@
 - belajar python
 - belajar webdev
+  ^ belajar golang
+  ^ belajar angular
 - belajar data sains
 - papercraft diecast
