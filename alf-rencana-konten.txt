@@ -1,5 +1,8 @@
 - belajar python
 - belajar webdev
+  ^ database
+  ^ back end
+  ^ front end
 - belajar data sains
   ^ konsep
   ^ google cloud
